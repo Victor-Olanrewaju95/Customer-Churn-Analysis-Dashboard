@@ -15,7 +15,7 @@ This project focuses on identifying the root causes of customer churn using data
           - - **Data Cleaning**: Ensuring data accuracy and consistency for reliable analysis.
            
             - ## Dashboard Preview
-            - ![Customer Churn Dashboard](customer_churn_dashboard.png)
+            - ![Customer Churn Dashboard](1002019923.png)
            
             - ## Business Impact
             - - **Improved Retention**: Early detection of churn patterns allows for proactive customer engagement.
